@@ -1,6 +1,6 @@
 # Predicting-Salifort-Motors-Customer-Churn
 <img src='https://miro.medium.com/v2/resize:fit:1400/0*LRyHZb_JBpuuNVzd' width="500" height="270" align=left>
-This Scenario goes on working for Salifort Motors. Salifort’s senior leadership team is concerned about how many employees are leaving the company. So the leadership team asks to analyze the survey data and come up with ideas for how to increase employee retention. To help with this, they suggest designing a statistical model such as Logistic regression, or any machine learning model such as decision tree, random forest, XGBoost, or even both, that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points.<br>
+This Scenario goes on working for Salifort Motors. Salifort’s senior leadership team is concerned about how many employees are leaving the company. So the leadership team asks to analyze the survey data and come up with ideas for how to increase employee retention. To help with this, they suggest designing a statistical model that predicts whether an employee will leave the company, or not.
 
 **Analysis:**
 <br>
@@ -8,6 +8,6 @@ The Random Forest model demonstrated a test data accuracy exceeding 98%. Accordi
 
 <br>
 
-**Suggestions**
+**Suggestions:**
 <br>
 It seems that the key factors for improving employee retention at Salifort Motors include reducing work time, increasing promotional opportunities, enhancing career development, fostering a positive work culture, and rewarding employee achievements. Focusing on these areas may help address the issues identified in the analysis and contribute to higher employee satisfaction and retention.
