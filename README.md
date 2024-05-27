@@ -6,9 +6,11 @@ This Scenario goes on working for Salifort Motors. Salifort’s senior leadershi
 <br>
 
 **Analysis**
+<br>
 The Random Forest model demonstrated a test data accuracy exceeding 98%. According to the model, the primary driver of employee churn was the "Satisfaction Level." Interestingly, both tree-based models indicated that "Salary" held the least importance in predicting employee churn. This suggests that factors related to the work itself, rather than salary, were more influential in employee turnover. Key features for predicting employee churn included Satisfaction Level, Average Monthly Hours, last evaluation, number of projects, and tenure. It can be inferred that employees received low-performance review scores and struggled with the number of projects they were involved in. Additionally, the average monthly hours worked by employees played a significant role. Tenure, representing the duration of employment with the company, may have indicated a lack of growth opportunities for long-term employees.
 
 <br>
 
-**Suggestion**
+**Suggestions**
+<br>
 It seems that the key factors for improving employee retention at Salifort Motors include reducing work time, increasing promotional opportunities, enhancing career development, fostering a positive work culture, and rewarding employee achievements. Focusing on these areas may help address the issues identified in the analysis and contribute to higher employee satisfaction and retention.
