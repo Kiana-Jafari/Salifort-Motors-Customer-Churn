@@ -1,3 +1,3 @@
-# Predicting-Salifort-Motors-Customer-Churn
+# Predicting Salifort Motors Customer Churn
 <img src='https://miro.medium.com/v2/resize:fit:1400/0*LRyHZb_JBpuuNVzd' width="500" height="270" align=left>
 This Scenario goes on working for Salifort Motors. Salifort’s senior leadership team is concerned about how many employees are leaving the company. So the leadership team asks to analyze the survey data and come up with ideas for how to increase employee retention. To help with this, they suggest designing a machine learning model that predicts whether an employee will leave the company, or not. We will be evaluating two important ML models, Random Forest, and XGBoost to predict for this commercial task.
